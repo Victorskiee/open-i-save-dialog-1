@@ -1,0 +1,11 @@
+C:\Users\Wikuś\Desktop\notatnik\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\Wikuś\Desktop\notatnik\notatnik\bin\Debug\notatnik.exe
+C:\Users\Wikuś\Desktop\notatnik\notatnik\bin\Debug\notatnik.pdb
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.csprojAssemblyReference.cache
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.Form1.resources
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.Form2.resources
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.exe
+C:\Users\Wikuś\Desktop\notatnik\notatnik\obj\Debug\notatnik.pdb
